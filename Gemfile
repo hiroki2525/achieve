@@ -43,6 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'twitter-bootstrap-rails'
+gem 'rails_12factor', group: :production
 
-gem 'jquery-turbolinks'
